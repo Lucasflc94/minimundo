@@ -1,9 +1,23 @@
 <?php
-$host = "localhost"; // Caso rode dentro do Docker ou precise, use 172.17.0.1
-$port = "5432";
-$dbname = "minimundo"; // Nome do banco criado no seu pgAdmin
-$user = "postgres";
-$password = "marinha123";
+// Tenta obter a URL de conexão do Render (Nuvem)
+$dbUrl = getenv('DATABASE_URL');
+
+if ($dbUrl) {
+    // Configuração para o Render (Nuvem)
+    $dbopts = parse_url($dbUrl);
+    $host = $dbopts["host"];
+    $port = $dbopts["port"] ?? 5432;
+    $user = $dbopts["user"];
+    $password = $dbopts["pass"];
+    $dbname = ltrim($dbopts["path"], '/');
+} else {
+    // Configuração Local (Seu computador)
+    $host = 'localhost';
+    $port = '5432';
+    $dbname = 'minimundo';
+    $user = 'postgres';
+    $password = 'marinha123';
+}
 
 try {
     $pdo = new PDO("pgsql:host=$host;port=$port;dbname=$dbname", $user, $password, [
@@ -14,4 +28,3 @@ try {
     die("Erro ao conectar ao banco de dados: " . $e->getMessage());
 }
 ?>
-
