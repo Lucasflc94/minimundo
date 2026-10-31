@@ -1,6 +1,6 @@
 FROM php:8.2-apache
 
-# Instala as dependências necessárias para o PostgreSQL no PHP
+# Instala as dependências necessárias do PostgreSQL
 RUN apt-get update && apt-get install -y \
     libpq-dev \
     && rm -rf /var/lib/apt/lists/*
@@ -8,6 +8,8 @@ RUN apt-get update && apt-get install -y \
 # Instala as extensões PDO do PHP
 RUN docker-php-ext-install pdo pdo_pgsql
 
-# Copia os arquivos do projeto para o servidor web
+# Copia os arquivos do projeto para o diretório web
 COPY . /var/www/html/
-RUN chown -www-data:www-data /var/www/html/* -R
+
+# Aplica as permissões de forma segura na pasta inteira
+RUN chown -R www-data:www-data /var/www/html
