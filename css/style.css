@@ -1,0 +1,500 @@
+:root {
+
+    --bg-color: #0f172a;
+
+    --card-bg: #1e293b;
+
+    --text-color: #f8fafc;
+
+    --primary: #38bdf8;
+
+    --accent: #10b981;
+
+    --danger: #ef4444;
+
+    --border: #334155;
+
+}
+
+
+
+{
+    box-sizing: border-box;
+
+}
+
+
+
+/* --- FUNDO PERSONALIZADO COM A CLOE --- */
+
+body {
+
+    background-color: var(--bg-color);
+
+    background-image: linear-gradient(rgba(15, 23, 42, 0.90), rgba(15, 23, 42, 0.92)), url('cloe.jpg');
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-attachment: fixed;
+
+    color: var(--text-color);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    margin: 0;
+
+    padding: 20px;
+
+}
+
+
+
+.container {
+
+    max-width: 1000px;
+
+    margin: 0 auto;
+
+}
+
+
+
+header {
+
+    text-align: center;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+header h1 {
+
+    color: var(--primary);
+
+    margin-bottom: 5px;
+
+    font-size: 1.8rem;
+
+}
+
+
+
+header p {
+
+    color: #94a3b8;
+
+    font-size: 0.9rem;
+
+}
+
+
+
+/* Menu Principal (Rodapé fixo no Celular) */
+
+.nav-tabs {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-bottom: 20px;
+
+    flex-wrap: wrap;
+
+}
+
+
+
+.nav-tabs a {
+
+    background: var(--card-bg);
+
+    color: var(--text-color);
+
+    padding: 10px 18px;
+
+    text-decoration: none;
+
+    border-radius: 6px;
+
+    border: 1px solid var(--border);
+
+    transition: 0.3s;
+
+    font-weight: 500;
+
+}
+
+
+
+.nav-tabs a:hover, .nav-tabs a.active {
+
+    background: var(--primary);
+
+    border-color: var(--primary);
+
+    color: #fff;
+
+}
+
+
+
+/* SUB-ABAS DE CATEGORIAS (Padrão PC) */
+
+.sub-tabs {
+
+    display: flex;
+
+    gap: 10px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.sub-tabs a {
+
+    background: var(--card-bg);
+
+    color: var(--text-color);
+
+    padding: 10px 18px;
+
+    text-decoration: none;
+
+    border-radius: 6px;
+
+    border: 1px solid var(--border);
+
+    transition: 0.3s;
+
+    font-weight: 500;
+
+    font-size: 0.9rem;
+
+}
+
+
+
+.sub-tabs a:hover, .sub-tabs a.active {
+
+    background: var(--primary);
+
+    border-color: var(--primary);
+
+    color: #fff;
+
+}
+
+
+
+.card {
+
+    background: var(--card-bg);
+
+    padding: 20px;
+
+    border-radius: 8px;
+
+    border: 1px solid var(--border);
+
+    margin-bottom: 20px;
+
+}
+
+
+
+form label {
+
+    display: block;
+
+    margin-top: 12px;
+
+    margin-bottom: 4px;
+
+    color: #cbd5e1;
+
+}
+
+
+
+input, select, button {
+
+    width: 100%;
+
+    padding: 10px;
+
+    border-radius: 6px;
+
+    border: 1px solid var(--border);
+
+    background: #0f172a;
+
+    color: var(--text-color);
+
+    box-sizing: border-box;
+
+}
+
+
+
+button {
+
+    background: var(--accent);
+
+    color: #fff;
+
+    font-weight: bold;
+
+    border: none;
+
+    margin-top: 15px;
+
+    cursor: pointer;
+
+}
+
+
+
+button:hover {
+
+    opacity: 0.9;
+
+}
+
+
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin-top: 15px;
+
+}
+
+
+
+th, td {
+
+    padding: 12px;
+
+    text-align: left;
+
+    border-bottom: 1px solid var(--border);
+
+}
+
+
+
+th {
+
+    background: #0f172a;
+
+    color: var(--primary);
+
+}
+
+
+
+.btn-danger {
+
+    background: var(--danger);
+
+    color: white;
+
+    padding: 5px 10px;
+
+    border-radius: 4px;
+
+    text-decoration: none;
+
+    font-size: 0.8rem;
+
+}
+
+
+
+/* --- OTIMIZAÇÃO MOBILE (Layout fluido sem dividir tela) --- */
+
+@media (max-width: 768px) {
+
+    body {
+
+        padding: 10px 10px 85px 10px;
+
+        font-size: 14px;
+
+    }
+
+
+
+    .container {
+
+        width: 100%;
+
+        max-width: 100%;
+
+        padding: 0;
+
+    }
+
+
+
+    header h1 {
+
+        font-size: 1.4rem;
+
+    }
+
+
+
+    header p {
+
+        font-size: 0.8rem;
+
+    }
+
+
+
+    /* Barra de navegação principal fixa no rodapé do celular */
+
+    .nav-tabs {
+
+        position: fixed;
+
+        bottom: 0;
+
+        left: 0;
+
+        right: 0;
+
+        background: #0f172a;
+
+        border-top: 1px solid var(--border);
+
+        display: flex;
+
+        justify-content: space-around;
+
+        padding: 8px 5px;
+
+        margin-bottom: 0;
+
+        z-index: 1000;
+
+        box-shadow: 0 -4px 12px rgba(0,0,0,0.5);
+
+    }
+
+
+
+    .nav-tabs a {
+
+        flex: 1;
+
+        text-align: center;
+
+        padding: 8px 2px;
+
+        font-size: 0.70rem;
+
+        border-radius: 6px;
+
+        white-space: nowrap;
+
+        overflow: hidden;
+
+        text-overflow: ellipsis;
+
+        color: var(--text-color);
+
+    }
+
+
+
+    /* SUB-ABAS EM GRADE COMPACTA ALINHADA À ESQUERDA (SEM DIVIDIR TELA) */
+
+    .sub-tabs {
+
+        display: grid;
+
+        grid-template-columns: repeat(2, 1fr);
+
+        gap: 8px;
+
+        margin-bottom: 15px;
+
+    }
+
+
+
+    .sub-tabs a {
+
+        text-align: left;
+
+        padding: 10px 12px;
+
+        font-size: 0.85rem;
+
+        color: var(--text-color);
+
+        background: var(--card-bg);
+
+        border: 1px solid var(--border);
+
+    }
+
+
+
+    .sub-tabs a.active {
+
+        background: var(--primary);
+
+        color: #fff;
+
+        border-color: var(--primary);
+
+    }
+
+
+
+    /* Cards e tabelas ocupam 100% da largura */
+
+    .card {
+
+        padding: 15px;
+
+        margin-bottom: 15px;
+
+        overflow-x: auto;
+
+        clear: both;
+
+    }
+
+
+
+    input, select, button {
+
+        font-size: 16px !important;
+
+        padding: 10px;
+
+    }
+
+
+
+    table {
+
+        min-width: 500px;
+
+    }
+
+}
