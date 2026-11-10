@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $config['intervals'] = $intervalos;
     gravar_json('settings.json', $config);
     definir_mensagem('success', 'Configurações salvas.');
-    redirecionar('/settings.php');
+    redirecionar(BASE_URL . '/settings.php');
 }
 ?>
 <h1>Configurações</h1>

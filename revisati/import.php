@@ -5,7 +5,7 @@ $resultado = null;
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $resultado = importar_cronograma();
     definir_mensagem('success', "Importação concluída: {$resultado['added']} novos assuntos adicionados (de {$resultado['imported']} registros).");
-    redirecionar('/import.php');
+    redirecionar(BASE_URL . '/import.php');
 }
 $assuntos = obter_assuntos();
 $total_bruto = count(ler_json('cronograma.json', []));

@@ -57,12 +57,12 @@ usort($filtradas, fn($a, $b) => strcmp($a['due_date'], $b['due_date']));
     <td><?= $revisao['done_at'] ? formatar_data($revisao['done_at']) : '-' ?></td>
     <td>
       <?php if ($revisao['status']==='pending'): ?>
-        <form method="post" action="/review_action.php" style="display:inline">
+        <form method="post" action="<?= BASE_URL ?>/review_action.php" style="display:inline">
           <input type="hidden" name="id" value="<?= escapar($revisao['id']) ?>">
           <input type="hidden" name="action" value="done">
           <button class="btn btn-sm" type="submit">Revisado</button>
         </form>
-        <form method="post" action="/review_action.php" style="display:inline">
+        <form method="post" action="<?= BASE_URL ?>/review_action.php" style="display:inline">
           <input type="hidden" name="id" value="<?= escapar($revisao['id']) ?>">
           <input type="hidden" name="action" value="skip">
           <button class="btn btn-sm btn-secondary" type="submit">Pular</button>

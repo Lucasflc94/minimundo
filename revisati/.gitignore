@@ -1,0 +1,42 @@
+# =============================================================================
+# RevisaTI — .gitignore
+# Arquivos/pastas que NÃO devem ser versionados no GitHub
+# =============================================================================
+
+# --- Dados do usuário (gerados pelo próprio sistema) ---
+# Estes arquivos são criados/atualizados em runtime e contêm dados pessoais.
+data/subjects.json
+data/reviews.json
+data/settings.json
+data/alerts.log
+
+# --- Logs ---
+*.log
+
+# --- Dependências PHP (Composer) — caso venha a usar futuramente ---
+vendor/
+composer.lock
+
+# --- Variáveis de ambiente ---
+.env
+.env.local
+.env.*.local
+
+# --- IDEs e editores ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# --- Sistema operacional ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Build / cache ---
+.cache/
+tmp/
+temp/

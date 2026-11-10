@@ -42,7 +42,7 @@ $assuntos_estudados = count(array_filter($assuntos, fn($a) => ($a['status'] ?? '
       <td><?= formatar_data($revisao['due_date']) ?> <?= $atrasada ? '<span class="badge badge-overdue">atrasada</span>' : '<span class="badge badge-today">hoje</span>' ?></td>
       <td><span class="badge badge-pending">pendente</span></td>
       <td>
-        <form method="post" action="/review_action.php" style="display:inline">
+        <form method="post" action="<?= BASE_URL ?>/review_action.php" style="display:inline">
           <input type="hidden" name="id" value="<?= escapar($revisao['id']) ?>">
           <input type="hidden" name="action" value="done">
           <button class="btn btn-sm" type="submit">Marcar revisado</button>

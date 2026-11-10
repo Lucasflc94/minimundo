@@ -8,6 +8,9 @@ $mensagem_flash = obter_mensagem();
 $config = ler_json('settings.json', ['app_name'=>'RevisaTI','intervals'=>[7,15,30],'alert_email'=>'']);
 define('NOME_APP', $config['app_name'] ?? 'RevisaTI');
 
+// URL base para links (vazio em standalone, /revisati quando integrado no minimundo)
+define('BASE_URL', isset($_SERVER['REVISATI_BASE_URL']) ? $_SERVER['REVISATI_BASE_URL'] : '');
+
 // Importa o cronograma automaticamente na primeira execução
 if (count(obter_assuntos()) === 0 && is_file(caminho_dados('cronograma.json'))) {
     importar_cronograma();

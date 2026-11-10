@@ -75,13 +75,13 @@ ksort($meses);
     </td>
     <td>
       <?php if (($assunto['status'] ?? '') !== 'studied'): ?>
-        <form method="post" action="/subject_action.php" style="display:inline">
+        <form method="post" action="<?= BASE_URL ?>/subject_action.php" style="display:inline">
           <input type="hidden" name="id" value="<?= escapar($assunto['id']) ?>">
           <input type="hidden" name="action" value="studied">
           <button class="btn btn-sm" type="submit">Marcar estudado</button>
         </form>
       <?php else: ?>
-        <a class="btn btn-sm btn-secondary" href="/reviews.php?subject=<?= escapar($assunto['id']) ?>">Ver revisões</a>
+        <a class="btn btn-sm btn-secondary" href="<?= BASE_URL ?>/reviews.php?subject=<?= escapar($assunto['id']) ?>">Ver revisões</a>
       <?php endif; ?>
     </td>
   </tr>
