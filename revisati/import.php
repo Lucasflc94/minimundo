@@ -3,8 +3,12 @@
 require_once __DIR__ . '/includes/header.php';
 $resultado = null;
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $resultado = importar_cronograma();
-    definir_mensagem('success', "Importação concluída: {$resultado['added']} novos assuntos adicionados (de {$resultado['imported']} registros).");
+    try {
+        $resultado = importar_cronograma();
+        definir_mensagem('success', "Importação concluída: {$resultado['added']} novos assuntos adicionados (de {$resultado['imported']} registros).");
+    } catch (Throwable $e) {
+        definir_mensagem('error', 'Erro na importação: ' . $e->getMessage());
+    }
     redirecionar(BASE_URL . '/import.php');
 }
 $assuntos = obter_assuntos();
