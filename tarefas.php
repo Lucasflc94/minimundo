@@ -52,7 +52,8 @@ $tarefas = $stmt->fetchAll();
             <a href="gastos.php">💰 Gestão de Gastos</a>
             <a href="tarefas.php" class="active">📋 Tarefas do Lucas</a>
             <a href="veiculos.php">🏍️🚗 Veículos (Tucson/Ténéré)</a>
-        </div>
+                    <a href="revisao.php">🧠 Revisão Espaçada TI</a>
+</div>
 
         <div class="card">
             <h3>➕ Nova Missão para o Lucas</h3>

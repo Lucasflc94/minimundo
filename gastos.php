@@ -55,7 +55,8 @@ $total_casal = $totais['Lucas'] + $totais['Bruna'];
             <a href="gastos.php" class="active">💰 Gestão de Gastos</a>
             <a href="tarefas.php">📋 Tarefas do Lucas</a>
             <a href="veiculos.php">🏍️🚗 Veículos (Tucson/Ténéré)</a>
-        </div>
+                    <a href="revisao.php">🧠 Revisão Espaçada TI</a>
+</div>
 
         <div class="card">
             <h3>💳 Cadastrar Novo Gasto</h3>

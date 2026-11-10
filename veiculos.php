@@ -47,7 +47,8 @@ $manutençoes = $stmt->fetchAll();
             <a href="gastos.php">💰 Gestão de Gastos</a>
             <a href="tarefas.php">📋 Tarefas do Lucas</a>
             <a href="veiculos.php" class="active">🏍️🚗 Veículos (Tucson/Ténéré)</a>
-        </div>
+                    <a href="revisao.php">🧠 Revisão Espaçada TI</a>
+</div>
 
         <div class="card">
             <h3>🔧 Registrar Serviço / Manutenção</h3>

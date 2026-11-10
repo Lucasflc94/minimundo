@@ -47,7 +47,8 @@ $itens = $stmt->fetchAll();
             <a href="gastos.php">💰 Gastos</a>
             <a href="tarefas.php">📋 Tarefas</a>
             <a href="veiculos.php">🏍️🚗 Veículos</a>
-        </div>
+                    <a href="revisao.php">🧠 Revisão Espaçada TI</a>
+</div>
 
         <div class="card">
             <h3>➕ Cadastrar Novo Item</h3>

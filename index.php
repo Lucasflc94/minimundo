@@ -21,7 +21,8 @@
             <a href="gastos.php">💰 Gestão de Gastos</a>
             <a href="tarefas.php">📋 Tarefas do Lucas</a>
             <a href="veiculos.php">🏍️🚗 Veículos (Tucson/Ténéré)</a>
-        </div>
+                    <a href="revisao.php">🧠 Revisão Espaçada TI</a>
+</div>
 
         <div class="card" style="text-align: center;">
             <h2>Status do Sistema: Operacional 🟢</h2>

@@ -1,0 +1,5906 @@
+[
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Fundamentos do Big Data",
+    "type": "Videoaula",
+    "completed": true
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Tipos de Dados e VS do Big Data",
+    "type": "Videoaula",
+    "completed": true
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Pipeline, Data, Lake, ETL x ELT",
+    "type": "Videoaula",
+    "completed": true
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - NOSQL",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - NOSQL",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - HADOOP",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Arquitetura de Big Data",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-10",
+    "day": 10,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Ingestão de Dados",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Apache Spark",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Apache Spark II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Apache Kafka",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Apache Kafka",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Analytics",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - DevSecOps",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-11",
+    "day": 11,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Mensageria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Mensageria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Mensageria II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Elasticsearch",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Kibana e Logstach",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Características Essenciais",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Modelos de Negócio",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-12",
+    "day": 12,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Modelos de Negócio - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Modelos de Implantação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Modelos de Pagamento e Componentes da Arquitetura Em Nuvem",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Modelos de Pagamento e Componentes da Arquitetura Em Nuvem",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - AWS I",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - AWS II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - AWS II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Análise de Vulnerabilidades",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Análise de Vulnerabilidades II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Análise de Vulnerabilidades II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-11-13",
+    "day": 13,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Análise de Vulnerabilidades II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Análise de Vulnerabilidades II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Prevenção de Incidentes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Tratamento de Incidentes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Gestão de Incidentes na ABNT NBR ISO / IEC 27002",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos Básicos e Benefícios da Auditoria de TI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos Básicos e Benefícios da Auditoria de TI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Questões Avaliadas, Perfil do Auditor, Padrões e Código de Ética",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-16",
+    "day": 16,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Etapas de uma Auditoria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Etapas de uma Auditoria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Análise de Tráfego",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Análise de Tráfego II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Segurança em Redes Wireless IEEE 802.11",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Segurança em Redes Wireless IEEE 802.11 II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Segurança em Redes Wireless IEEE 802.11 II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Segurança em Redes Wireless IEEE 802.11 III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-17",
+    "day": 17,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Secure Sockets Layer e TLS - Transport Layer Security",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Secure Sockets Layer e TLS - Transport Layer Security",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Secure Sockets Layer e TLS - Transport Layer Security II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Secure Sockets Layer e TLS - Transport Layer Security III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Secure Sockets Layer e TLS - Transport Layer Security IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - CIS Controls v8",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - CIS Controls v8",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - CIS Controls v8 II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-18",
+    "day": 18,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Princípios Fundamentais",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Princípios Fundamentais",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Hexagrama Parkeriano",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Malware",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Malware II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Ataques",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Ataques",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Ataques II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Ataques III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Ataques IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-19",
+    "day": 19,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Ataques V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Ataques V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Ataques VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Ataques VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Planejamento do Ataque",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 13 - Planejamento do Ataque II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 14 - Ameaça Persistente Avançada",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 15 - Firewall",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 15 - Firewall",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 16 - Arquiteturas de Firewall",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 17 - IDS - IPS",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 18 - IDS - IPS II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 18 - IDS - IPS II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-11-20",
+    "day": 20,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 18 - IDS - IPS II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 18 - IDS - IPS II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 19 - UTM e NGFW",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 20 - NAC",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 21 - NAP",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 22 - Criptografia: Conceitos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 23 - Criptografia: Conceitos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 24 - Criptografia Simétrica",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 25 - Criptografia: Modo de Processamento",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 26 - Criptografia: Algoritmos Simétricos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 27 - Criptografia Assimétrica",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 28 - Criptografia Assimétrica: Protocolos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 29 - Função de Hash",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-23",
+    "day": 23,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 30 - Autenticação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 30 - Autenticação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 31 - SSO",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 32 - SAML 2.0",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 33 - OAuth 2.0",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 34 - JWT",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 35 - Controle de Acesso",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 36 - DAC MAC RBAC",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 37 - ABAC",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 38 - Keycloak",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 39 - Assinatura Digital",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 39 - Assinatura Digital",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 40 - Certificado Digital",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 41 - Certificado Digital Tipos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 42 - Infraestrutura de Chaves Públicas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 43 - Visão Geral do Privacy Network",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-24",
+    "day": 24,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 44 - Arquitetura Zero Trust",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 44 - Arquitetura Zero Trust",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 45 - Arquitetura Zero Trust II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Sistemas de Gestão de Segurança da Informação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Sistemas de Gestão de Segurança da Informação II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Sistemas de Gestão de Segurança da Informação III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Sistemas de Gestão de Segurança da Informação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Sistemas de Gestão de Segurança da Informação V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Sistemas de Gestão de Segurança da Informação V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Sistemas de Gestão de Segurança da Informação VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Sistemas de Gestão de Segurança da Informação VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Gestão de Riscos de Segurança da Informação - Introdução e Escopo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Gestão de Riscos de Segurança da Informação - Introdução e Escopo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Gestão de Riscos de Segurança da Informação - Introdução e Escopo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-25",
+    "day": 25,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Gestão de Riscos de Segurança da Informação - Introdução e Escopo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Definição do Contexto",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Escopo e Limites",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 13 - Processo de Avaliação de Riscos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 14 - Identificação de Riscos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 15 - Identificação dos Controles Existentes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 16 - Identificação das Vulnerabilidades",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 16 - Identificação das Vulnerabilidades",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 17 - Identificação das Consequências",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 18 - Metodologia da Análise de Riscos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 19 - Avaliação das Consequências",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 19 - Avaliação das Consequências",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 21 - Avaliação de Riscos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-26",
+    "day": 26,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 22 - Descrição Geral do Processo de Tratamento do Risco",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 22 - Descrição Geral do Processo de Tratamento do Risco",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 23 - Modificação do Risco",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 24 - Retenção, Ação de Evitar e Compartilhamento do Risco",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 25 - Aceitação do Risco de Segurança da Informação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 26 - Monitoramento e Análise Crítica dos Fatores de Risco",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 27 - Comunicação e Consulta de Risco da Segurança da Informação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 28 - Código de prática para controles de Segurança da Informação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 29 - Código de prática para controles de Segurança da Informação II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 30 - Código de prática para controles de Segurança da Informação III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 31 - Código de prática para controles de Segurança da Informação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 32 - Código de prática para controles de Segurança da Informação V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 33 - Código de prática para controles de Segurança da Informação VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 34 - Código de prática para controles de Segurança da Informação VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 35 - Código de prática para controles de Segurança da Informação VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 35 - Código de prática para controles de Segurança da Informação VIII",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-11-27",
+    "day": 27,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 35 - Código de prática para controles de Segurança da Informação VIII",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 35 - Código de prática para controles de Segurança da Informação VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 36 - Código de prática para controles de Segurança da Informação IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 37 - Código de prática para controles de Segurança da Informação X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 38 - Código de prática para controles de Segurança da Informação XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 39 - Código de prática para controles de Segurança da Informação XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 40 - Código de prática para controles de Segurança da Informação XIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 41 - Código de prática para controles de Segurança da Informação XIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 42 - Código de prática para controles de Segurança da Informação XV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 42 - Código de prática para controles de Segurança da Informação XV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 43 - Código de prática para controles de Segurança da Informação XVI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 44 - Código de prática para controles de Segurança da Informação XVII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 45 - Código de prática para controles de Segurança da Informação XVIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 46 - Código de prática para controles de Segurança da Informação XIX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-30",
+    "day": 30,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 47 - Código de prática para controles de Segurança da Informação XX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-01",
+    "day": 1,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 47 - Código de prática para controles de Segurança da Informação XX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-11-01",
+    "day": 1,
+    "month": 11,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 48 - Código de prática para controles de Segurança da Informação XXI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 49 - Código de prática para controles de Segurança da Informação XXII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 50 - Código de prática para controles de Segurança da Informação XXIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 51 - Código de prática para controles de Segurança da Informação XXIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 52 - Código de prática para controles de Segurança da Informação XXV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 53 - Código de prática para controles de Segurança da Informação XXVI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 54 - Código de prática para controles de Segurança da Informação XXVII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 55 - Código de prática para controles de Segurança da Informação XXVIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 56 - Código de prática para controles de Segurança da Informação XXIX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 57 - Código de prática para controles de Segurança da Informação XXX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 58 - Código de prática para controles de Segurança da Informação XXXI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 59 - Código de prática para controles de Segurança da Informação XXXII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 60 - Código de prática para controles de Segurança da Informação XXXIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 61 - Código de prática para controles de Segurança da Informação XXXIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 62 - Código de prática para controles de Segurança da Informação XXXV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 63 - Código de prática para controles de Segurança da Informação XXXVI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 64 - Código de prática para controles de Segurança da Informação XXXVII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 65 - Código de prática para controles de Segurança da Informação XXXVIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 66 - Código de prática para controles de Segurança da Informação XXXIX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 67 - Código de prática para controles de Segurança da Informação XL",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 68 - Código de prática para controles de Segurança da Informação XLI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 69 - Código de prática para controles de Segurança da Informação XLII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 70 - Código de prática para controles de Segurança da Informação XLIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 70 - Código de prática para controles de Segurança da Informação XLIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 71 - Código de prática para controles de Segurança da Informação XLIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 72 - Código de prática para controles de Segurança da Informação XLV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 73 - Código de prática para controles de Segurança da Informação XLVI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 74 - Código de prática para controles de Segurança da Informação XLVII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 75 - Código de prática para controles de Segurança da Informação XLVIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-02",
+    "day": 2,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 76 - Código de prática para controles de Segurança da Informação XLIX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 77 - Código de prática para controles de Segurança da Informação L",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 78 - Código de prática para controles de Segurança da Informação LI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 79 - Código de prática para controles de Segurança da Informação LII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 80 - Código de prática para controles de Segurança da Informação LIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 81 - Código de prática para controles de Segurança da Informação LIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 82 - Código de prática para controles de Segurança da Informação LV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Continuidade de Negócios",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Continuidade de Negócios",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Continuidade de Negócios II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Continuidade de Negócios III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-03",
+    "day": 3,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Continuidade de Negócios IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Continuidade de Negócios IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Continuidade de Negócios V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Continuidade de Negócios VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Continuidade de Negócios VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Continuidade de Negócios VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Continuidade de Negócios VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Continuidade de Negócios IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Continuidade de Negócios X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Continuidade de Negócios XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Continuidade de Negócios XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos iniciais",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos iniciais",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-12-04",
+    "day": 4,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos iniciais",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Conceitos iniciais",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Tipos de Testes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Metodologias",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Técnicas e Ferramentas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Técnicas e Ferramentas II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - GOF - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - GOF - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - GOF - Patterns e AntiPatterns",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-07",
+    "day": 7,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - GOF - Criacional - Factory Method",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - GOF - Criacional - Factory Method",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - GOF - Criacional - Abstract Factory",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - GOF - Criacional - Builder e Prototype",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - GOF - Criacional - Singleton",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - GOF - Estruturais - Adapter e Bridge",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - GOF - Estruturais - Adapter e Bridge",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - GOF - Estruturais - Composite, Decorator, Facade e Flyweight",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - GOF - Estruturais - Proxy e Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-08",
+    "day": 8,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - GOF - Comportamentais - Chain Of Responsability, Command & Iterator",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - GOF - Comportamentais - Chain Of Responsability, Command & Iterator",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - GOF - Comportamentais - Mediator, Memento & Observer",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - GOF - Comportamentais - Mediator, Memento & Observer",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - GOF - Comportamentais - Mediator, Memento & Observer",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 13 - GOF - Exercícios",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Typescript",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-09",
+    "day": 9,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Typescript II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Typescript II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Typescript III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Typescript IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Typescript V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Typescript V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Typescript VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Typescript VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-10",
+    "day": 10,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Typescript VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Typescript VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Typescript IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Visão Geral",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Tipos de Diagramas e Elementos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Elementos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Elementos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Elementos III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Elementos IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Elementos IV",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-12-11",
+    "day": 11,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Elementos IV",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Elementos IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Melhores Práticas e Erros Comuns",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Arquitetura de Microsserviços",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - JSON e API REST",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - HTTPRequest e Fetch API",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - HTTPRequest e Fetch API",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Arquitetura em Camadas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Arquitetura Cliente Servidor",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-14",
+    "day": 14,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Arquitetura Cliente Servidor II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Arquitetura Cliente Servidor II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Arquitetura de Objetos Distribuídos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Arquitetura Serverless",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Variáveis e Arrays",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Variáveis e Arrays",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Operadores",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Condicionais e Laços de Repetição",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-15",
+    "day": 15,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Funções",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Funções",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Funções II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - DOM",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - DOM II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - BOM",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - BOM",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - BOM II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Orientação a Objetos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-16",
+    "day": 16,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - HTML5",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Imagens, Links e Tabelas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Formulários",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Tags de Estrutura e Formatação de Texto",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Estrutura, Diferenças com HTML",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Estrutura, Diferenças com HTML",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Namespaces, DTD",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - XSD",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-17",
+    "day": 17,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - FLYWAY",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - FLYWAY",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - PWA",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - PWA",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - PWA",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - PWA",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - PWA",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Balanceamento de Carga",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Fibre Channel",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Fibre Channel",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-12-18",
+    "day": 18,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Fibre Channel",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Fibre Channel II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Fibre Channel III - FCIP, IFCP E FCOE",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Storages físicos e virtualizados, SDS e Cloud Storage",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Zoneamento e ISCSI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Zoneamento e ISCSI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - RAID",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-21",
+    "day": 21,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - RAID II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - RAID II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - RAID III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - DAS, NAS e SAN",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Introdução",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Arquivo, Bloco e Objeto",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Arquivo, Bloco e Objeto II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-22",
+    "day": 22,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Injeção de Dependências",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Injeção de Dependências",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Injeção de Dependências II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Framework Spring Beans e Ciclo de Vida",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Framework Spring MVC",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Framework Spring MVC",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Framework Spring MVC II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Spring Boot",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-23",
+    "day": 23,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Spring Cloud - Eureka",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Spring Cloud - Eureka",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Spring Cloud - Zuul",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Map Struct",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Webhook; APIs reversas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Webhook; APIs reversas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Service Discovery",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - API Gateway",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-24",
+    "day": 24,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Persistência; JPA 2.0; Hibernate 4.3 ou superior; Hibernate Envers III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - JBoss",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Wildfly",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Wildfly",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Wildfly II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - JQuery",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - JQuery II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - JQuery II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2026-12-25",
+    "day": 25,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - JQuery II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - JQuery III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - JQuery IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - JSF (JavaServer Pages)",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - JSF (JavaServer Pages) II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - JSF (JavaServer Pages) II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Angular",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-28",
+    "day": 28,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Angular II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - DevOps",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - DevOps II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-29",
+    "day": 29,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Governança da TI para a Organização",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Cronograma de Estudos | TI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Cronograma de Estudos | TI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 1 - Lógica de Programação: Introdução, variáveis e tipos de dados",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Lógica de Programação: Variáveis e Constantes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 2 - Lógica de Programação: Variáveis e Constantes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 3 - Teoria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 4 - Teoria e Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-30",
+    "day": 30,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 5 - Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 6 - Questões II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 7 - Lógica de Programação: Tipos Abstratos de Dados",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Lógica de Programação: Operadores",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 8 - Lógica de Programação: Operadores",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 9 - Lógica de Programação: Operadores II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 10 - Lógica de Programação: Operadores III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-31",
+    "day": 31,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Estruturas de Controle",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 11 - Estruturas de Controle",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 12 - Estruturas de Controle II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 13 - Estruturas de Controle III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 14 - Estruturas de Controle IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 15 - Estruturas de Controle V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 16 - Estruturas de Controle VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2026-12-01",
+    "day": 1,
+    "month": 12,
+    "year": 2026,
+    "title": "Conhecimentos Específicos | 17 - Módulo I",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - Módulo I",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - Módulo I",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - Módulo I",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 18 - Módulo II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 19 - Módulo III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 20 - Módulo IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 21 - Módulo V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 22 - Recursividade",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-04",
+    "day": 4,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 23 - Recursividade II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 23 - Recursividade II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 24 - Recursividade III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 25 - Recursividade IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 1 - Introdução à Tecnologia",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - Introdução à Tecnologia II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - Introdução à Tecnologia II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 3 - Introdução à Tecnologia III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 4 - Desenvolvendo com Java",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-05",
+    "day": 5,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 5 - Desenvolvendo com Java II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 5 - Desenvolvendo com Java II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - Desenvolvendo com Java III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 7 - Desenvolvendo com Java IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 8 - Desenvolvendo com Java V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 8 - Desenvolvendo com Java V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 9 - Desenvolvendo com Java VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 10 - JVM",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-06",
+    "day": 6,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 11 - JVM II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 11 - JVM II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 12 - JVM III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 13 - JVM IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - JVM V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 15 - Sintaxe",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 15 - Sintaxe",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 16 - Sintaxe II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - Sintaxe III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-07",
+    "day": 7,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 18 - Sintaxe IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 18 - Sintaxe IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 19 - Sintaxe V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 20 - Variáveis",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 21 - Variáveis II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 22 - Variáveis III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 22 - Variáveis III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 23 - Variáveis IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 24 - Tipos Primitivos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 25 - Tipos Primitivos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 25 - Tipos Primitivos II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-01-08",
+    "day": 8,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 25 - Tipos Primitivos II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 25 - Tipos Primitivos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 26 - Tipos Primitivos III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 27 - Valores Literais e Casting",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 28 - Valores Literais e Casting II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 28 - Valores Literais e Casting II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 29 - Valores Literais e Casting III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-11",
+    "day": 11,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 30 - Valores Literais e Casting IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 30 - Valores Literais e Casting IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 31 - Valores Literais e Casting V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 32 - Operadores",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 33 - Operadores II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 34 - Operadores III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 34 - Operadores III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 35 - Operadores IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-12",
+    "day": 12,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 36 - Operadores V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 36 - Operadores V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 37 - Operadores VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 38 - Operadores VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 39 - Operadores VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 40 - Operadores IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 41 - Operadores X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-13",
+    "day": 13,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 42 - Operadores XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 42 - Operadores XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 43 - Operadores XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 44 - Operadores XIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 45 - Operadores XIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 46 - Estruturas de Controle de Fluxo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 47 - Estruturas de Controle de Fluxo II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-14",
+    "day": 14,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 48 - Estruturas de Controle de Fluxo III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 48 - Estruturas de Controle de Fluxo III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 49 - Estruturas de Controle de Fluxo IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 50 - Estruturas de Controle de Fluxo V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 51 - Estruturas de Controle de Fluxo VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 52 - Estruturas de Controle de Fluxo VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 52 - Estruturas de Controle de Fluxo VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 53 - Estruturas de Controle de Fluxo VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 54 - Estruturas de Controle de Fluxo IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 54 - Estruturas de Controle de Fluxo IX",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-01-15",
+    "day": 15,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 54 - Estruturas de Controle de Fluxo IX",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 54 - Estruturas de Controle de Fluxo IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 55 - Estruturas de Controle de Fluxo X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 56 - Estruturas de Controle de Fluxo XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 57 - Estruturas de Controle de Fluxo XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 58 - Estruturas de Controle de Fluxo XIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 59 - Estruturas de Controle de Fluxo XIV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-18",
+    "day": 18,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 60 - Arrays",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 60 - Arrays",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 61 - Arrays II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 62 - Arrays III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 63 - Arrays IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 63 - Arrays IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 64 - Arrays V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 65 - Arrays VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-19",
+    "day": 19,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 66 - Arrays VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 66 - Arrays VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 67 - Arrays VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 68 - Introdução e Declaração",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 69 - Introdução e Declaração II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 69 - Introdução e Declaração II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 70 - Introdução e Declaração III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-20",
+    "day": 20,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 71 - Introdução e Declaração IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 72 - Introdução e Declaração V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 73 - Introdução e Declaração VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 74 - Atributos e Métodos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 75 - Atributos e Métodos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 75 - Atributos e Métodos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 76 - Atributos e Métodos III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 77 - Atributos e Métodos IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-21",
+    "day": 21,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 78 - Atributos e Métodos V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 78 - Atributos e Métodos V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 79 - Atributos e Métodos VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 80 - Atributos e Métodos VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 81 - Atributos e Métodos VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 81 - Atributos e Métodos VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 82 - Atributos e Métodos IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 83 - Construtores",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 84 - Construtores II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 84 - Construtores II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-01-22",
+    "day": 22,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 84 - Construtores II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 84 - Construtores II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 85 - Construtores III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 86 - Linguagem Java: Objetos",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 87 - Linguagem Java: Objetos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 87 - Linguagem Java: Objetos II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 88 - Linguagem Java: Herança",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 89 - Linguagem Java: Herança II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-25",
+    "day": 25,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 90 - Linguagem Java: Herança III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 90 - Linguagem Java: Herança III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 91 - Linguagem Java: Herança IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 92 - Linguagem Java: Herança V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 93 - Linguagem Java: Herança VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 94 - Linguagem Java: Herança VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 95 - Linguagem Java: Herança VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-26",
+    "day": 26,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 96 - Linguagem Java: Herança IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 96 - Linguagem Java: Herança IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 97 - Linguagem Java: Herança X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 98 - Linguagem Java: Herança XI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 99 - Linguagem Java: Herança XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 99 - Linguagem Java: Herança XII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 100 - Linguagem Java: Polimorfismo",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 101 - Linguagem Java: Polimorfismo II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-27",
+    "day": 27,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 102 - Linguagem Java: Polimorfismo III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 102 - Linguagem Java: Polimorfismo III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 103 - Linguagem Java: Polimorfismo IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 104 - Linguagem Java: Polimorfismo V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 105 - Linguagem Java: Polimorfismo VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 106 - Linguagem Java Classes Abstratas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 106 - Linguagem Java Classes Abstratas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 107 - Linguagem Java Classes Abstratas II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-28",
+    "day": 28,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 108 - Linguagem Java Classes Abstratas III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 109 - Linguagem Java Classes Abstratas IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 110 - Linguagem Java: Interfaces",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 111 - Linguagem Java: Interfaces II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 112 - Linguagem Java: Interfaces III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 113 - Linguagem Java: Interfaces IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 114 - Linguagem Java: Interfaces V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 115 - Linguagem Java: Interfaces VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 115 - Linguagem Java: Interfaces VI",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-01-29",
+    "day": 29,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 115 - Linguagem Java: Interfaces VI",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 115 - Linguagem Java: Interfaces VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 116 - Linguagem Java: Tratamento de Exceções",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 117 - Linguagem Java: Tratamento de Exceções II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 118 - Linguagem Java: Tratamento de Exceções III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 119 - Linguagem Java: Tratamento de Exceções IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 119 - Linguagem Java: Tratamento de Exceções IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 120 - Linguagem Java: Tratamento de Exceções V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-01",
+    "day": 1,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 121 - Linguagem Java: Tratamento de Exceções VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 121 - Linguagem Java: Tratamento de Exceções VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 122 - Tipos Enumerados",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 123 - Tipos Enumerados II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 124 - Tipos Enumerados III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 125 - Classes Wrappers",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-01-02",
+    "day": 2,
+    "month": 1,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 125 - Classes Wrappers",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-02",
+    "day": 2,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 126 - Classes Wrappers II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-02",
+    "day": 2,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 127 - Classes Wrappers III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 127 - Classes Wrappers III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 128 - Strings",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 129 - Strings II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 130 - Strings III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 131 - Strings IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 131 - Strings IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 132 - Strings V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-03",
+    "day": 3,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 133 - Strings VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 133 - Strings VI",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 134 - Strings VII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 135 - Strings VIII",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 136 - Strings IX",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 137 - Strings X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 137 - Strings X",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 138 - Coleções",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-04",
+    "day": 4,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 139 - Coleções II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 139 - Coleções II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 1 - Java EE: Introdução e Conceituação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - Java EE: Introdução e Conceituação II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 3 - Java EE: Introdução e Conceituação III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 4 - Java EE: Introdução e Conceituação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 4 - Java EE: Introdução e Conceituação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 5 - Java EE: Modelos de Aplicações",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - Java EE: Modelos de Aplicações II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - Java EE: Modelos de Aplicações II",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-02-05",
+    "day": 5,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - Java EE: Modelos de Aplicações II",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - Java EE: Modelos de Aplicações II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 7 - Java EE: Modelos de Aplicações III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 8 - Java EE: Modelos de Aplicações IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 9 - Java EE: Componentes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 10 - Java EE: Componentes II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 10 - Java EE: Componentes II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 11 - Java EE: Componentes III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-08",
+    "day": 8,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 12 - Java EE: Componentes IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 12 - Java EE: Componentes IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 13 - Java EE: Containers",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - Java EE: Containers II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 15 - Java EE: Containers III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 16 - Java EE: Servidores de Aplicação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 16 - Java EE: Servidores de Aplicação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - Java EE: Servidores de Aplicação II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 18 - Java EE: Servidores de Aplicação III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-09",
+    "day": 9,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 19 - Java EE: Servidores de Aplicação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 19 - Java EE: Servidores de Aplicação IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 20 - Java EE: Servidores de Aplicação V",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 21 - Java EE: Implantação de Aplicações Java EE",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 22 - Java EE: Implantação de Aplicações Java EE II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 23 - Java EE: Implantação de Aplicações Java EE III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 1 - Tratamento de Exceções - Teoria",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-10",
+    "day": 10,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - Tratamento de Exceções - Teoria & Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - Tratamento de Exceções - Teoria & Questões",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 1 - UML",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 2 - UML - Diagramas",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 3 - UML - Casos de Uso",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 4 - UML - Classes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 4 - UML - Classes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 5 - UML - Interação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-11",
+    "day": 11,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 6 - UML - Implantação",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 7 - UML - Componentes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 8 - UML - Atividades",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 9 - UML - Máquina de Estado",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 10 - UML - Estrutura Composta",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 11 - UML - Objeto",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 11 - UML - Objeto",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 12 - UML - Pacote e Perfil",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 13 - UML - Tópicos Relevantes",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - CMMI v1.3",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - CMMI v1.3",
+    "type": "Revisão",
+    "completed": false
+  },
+  {
+    "date": "2027-02-12",
+    "day": 12,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - CMMI v1.3",
+    "type": "Revisao",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 14 - CMMI v1.3",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 15 - CMMI x MPS.BR",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 16 - CMMI v2.0",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 17 - CMMI v2.0 II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 18 - MPS.BR - 2024",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 19 - MPS.BR - 2024 II",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-15",
+    "day": 15,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 20 - MPS.BR - 2024 III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-16",
+    "day": 16,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 20 - MPS.BR - 2024 III",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-16",
+    "day": 16,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 21 - MPS.BR - 2024 IV",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-16",
+    "day": 16,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 22 - Comparativo entre os modelos CMMI e MPS.BR - Exercícios",
+    "type": "Videoaula",
+    "completed": false
+  },
+  {
+    "date": "2027-02-16",
+    "day": 16,
+    "month": 2,
+    "year": 2027,
+    "title": "Conhecimentos Específicos | 23 - CMMI v3.0",
+    "type": "Videoaula",
+    "completed": false
+  }
+]
